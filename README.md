@@ -1,8 +1,7 @@
 # Super-Hero-Hunter
 
 
-# Deployed Link:
-https://superhero-api-xivg.onrender.com
+# Deployed Link(https://superhero-api-xivg.onrender.com)
 
 
 # Technology We Used :computer: 
