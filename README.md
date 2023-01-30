@@ -2,7 +2,7 @@
 
 
 # Deployed Link:
-
+https://superhero-api-xivg.onrender.com
 
 
 # Technology We Used :computer: 
